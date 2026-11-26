@@ -1,0 +1,12 @@
+# u-pucuys-never-say-it-out-loud-8198c3cd — ignore local run artefacts only
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+entry.txt
+/output/
+*.log
+.DS_Store
+Thumbs.db
+.venv/
+venv/
